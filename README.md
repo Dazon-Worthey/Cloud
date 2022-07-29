@@ -8,4 +8,4 @@
 
 - 3-Tier Web Application Architecture <br />
 
-![Dashboard](AWS-Architectures/3_Tier_Web_Application_Architecture.drawio.pdf)
+![Dashboard](AWS-Architectures/3_Tier_Web_Application_Architecture.drawio.png)
