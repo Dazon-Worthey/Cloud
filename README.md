@@ -8,4 +8,4 @@
 
 - 3-Tier Web Application Architecture <br />
 
-![Dashboard] (https://github.com/Dazon-Worthey/Cloud/blob/main/AWS-Architectures/3_Tier_Web_Application_Architecture.drawio.pdf)
+![Dashboard](https://github.com/Dazon-Worthey/DataVisualizationPortfolioProjects/blob/main/PowerBI/Portfolio%20Dashboard%20V2.PNG)
