@@ -4,4 +4,4 @@
 
 - [x] **AWS** - 
 
-*Kindly download the image file of this web application architecture.*
+*Feel free to download the image file of this web application architecture:*
