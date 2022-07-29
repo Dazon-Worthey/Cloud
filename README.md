@@ -8,4 +8,4 @@
 
 - 3-Tier Web Application Architecture <br />
 
-![Dashboard] (https://github.com/Dazon-Worthey/Cloud/blob/main/AWS-Architectures/3_Tier_Web_Application_Architecture.drawio.pdf)
+![Dashboard](excel-project-files/excel-project-visuals/10K_Business_Loan_Options.png)
